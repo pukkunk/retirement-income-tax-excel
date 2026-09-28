@@ -22,7 +22,7 @@
 
 以下のリンクからExcelファイルをダウンロードできます。
 
-**[退職所得計算_excel.xlsx](./退職所得計算_excel.xlsx)**
+**[退職所得計算_excel.xlsx](https://github.com/pukkunk/retirement-income-tax-excel/raw/refs/heads/main/%E9%80%80%E8%81%B7%E6%89%80%E5%BE%97%E8%A8%88%E7%AE%97_excel.xlsx)**
 
 ## 計算の流れ
 
